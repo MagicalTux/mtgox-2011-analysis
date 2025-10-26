@@ -1106,11 +1106,6 @@ This transforms the analysis from speculation into **documented fact**.
 
 **Note on 2014 Collapse**: The 2014 Mt. Gox collapse (850,000 BTC lost) involved completely different issues in later codebases and operational practices, not this 2010-2011 codebase. The June 2011 and February 2014 incidents are separate events.
 
-**Rating**:
-- **Original Codebase (Feb 2011)**: 5/10 architecture, 1/10 security, 6/10 features = **2/10 overall**
-- **After Improvements (May 2011)**: 5/10 architecture, 5/10 security (key fixes implemented), 6/10 features = **5/10 overall**
-- **Attack Outcome**: Most severe exploits prevented, but database compromised and ~2,000 BTC stolen
-
 ---
 
 **Report Generated**: 2025-10-27

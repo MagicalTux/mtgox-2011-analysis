@@ -16,17 +16,14 @@ The attack resulted in ~2,000 BTC stolen through early withdrawals at normal pri
 
 ## 1. Project Identification
 
-**Project Name**: Mt. Gox Bitcoin Exchange
-
-**Domain**: mtgox.com
-
-**Purpose**: Full-featured Bitcoin exchange platform with trading, merchant services, margin trading, and multi-currency payment processing
-
-**Development Period**: November 2010 - February 2011
-
-**Primary Developer**: jed_vaio
-
-**Code Volume**: ~35,765 lines of PHP code (excluding WordPress blog)
+| Field | Value |
+|-------|-------|
+| **Project Name** | Mt. Gox Bitcoin Exchange |
+| **Domain** | mtgox.com |
+| **Purpose** | Full-featured Bitcoin exchange platform with trading, merchant services, margin trading, and multi-currency payment processing |
+| **Development Period** | November 2010 - February 2011 |
+| **Primary Developer** | jed_vaio |
+| **Code Volume** | ~35,765 lines of PHP code (excluding WordPress blog) |
 
 ---
 
